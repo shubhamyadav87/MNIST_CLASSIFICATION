@@ -21,12 +21,13 @@ Model Evaluation: Once trained, the models are evaluated on the testing dataset 
 Deployment (Optional): Depending on the project requirements, the trained model may be deployed for inference on new unseen data. This could involve creating a web application, API, or integrating the model into existing systems.
 
 Results
-The results of the classification task, including model performance metrics and any insights gained from the analysis, will be documented and presented in this section.
+The accuracy of the model is 97.37%
 
 Dependencies
-Python 3.x
+Python 
 NumPy
 Pandas
 Matplotlib
 Scikit-learn
 TensorFlow
+keras
